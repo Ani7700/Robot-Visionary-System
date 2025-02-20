@@ -61,8 +61,4 @@ pip install torch torchvision
 - The model is based on ImageNet categories.
 
 ## License
-This project is for educational purposes only. The ResNet-50 model is provided by PyTorch under its respective license.
-
-## Contact
-For any questions or issues, feel free to reach out via GitHub or email.
-
+The ResNet-50 model is provided by PyTorch under its respective license.
